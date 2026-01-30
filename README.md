@@ -1,5 +1,3 @@
-.
-
 👁️ Drishti – The Ultimate Eye
 
 Real-Time Face Recognition System
